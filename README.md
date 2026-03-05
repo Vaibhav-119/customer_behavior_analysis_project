@@ -1,4 +1,3 @@
-End-to-End Data Analytics Project
 This project demonstrates a complete data analytics workflow, starting from raw data to actionable insights and visual storytelling. It combines Python, SQL, and Power BI to clean, analyze, and visualize data, followed by creating a report and presentation using AI tools.
 
 The goal of this project is to showcase practical data analysis skills used in real-world business scenarios.
