@@ -41,3 +41,6 @@ The project follows a structured analytics pipeline:
 6. Presentation
 
  - Generated a PowerPoint presentation using AI tools to communicate insights effectively.
+
+ <img width="1482" height="806" alt="Screenshot 2026-07-29 235622" src="https://github.com/user-attachments/assets/f45e3d29-e5d2-4fde-85c3-38c7d4ae270b" />
+
